@@ -6,11 +6,7 @@ import org.apache.commons.csv.CSVFormat;
 import org.apache.commons.csv.CSVParser;
 import org.apache.commons.csv.CSVRecord;
 import org.apache.commons.io.IOUtils;
-import org.apache.commons.lang3.math.NumberUtils;
 import org.springframework.http.ResponseEntity;
-import org.springframework.transaction.annotation.Transactional;
-import org.springframework.util.Assert;
-
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
@@ -18,7 +14,7 @@ import java.io.Reader;
 
 public class TestCaseService {
 
-    ConverterController converterController = new ConverterController();
+    private ConverterController converterController = new ConverterController();
 
     public void checkTestCase() {
         InputStream ins = null;
