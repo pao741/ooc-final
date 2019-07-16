@@ -2,20 +2,14 @@ package ooc.CaseConverter.controller;
 
 import ooc.CaseConverter.absFactory.*;
 import ooc.CaseConverter.absFactory.Converters.Converter;
-import ooc.CaseConverter.service.ConverterService;
-import org.springframework.http.HttpHeaders;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 import ooc.CaseConverter.Input;
 
 import javax.validation.Valid;
-import javax.xml.ws.http.HTTPException;
-import java.time.LocalDateTime;
 
 @RestController
 public class ConverterController {
-
-    private ConverterService converterService = new ConverterService();
 
     @PostMapping(value = {"/"})
     public ResponseEntity<String> doConvert(
