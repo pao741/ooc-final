@@ -23,24 +23,35 @@ public class ConverterController {
             case "camelCase":
                 converterFactory = new CamelCaseFactory();
                 converted = true;
+                break;
             case "snake_case":
                 converterFactory = new SnakeCaseFactory();
                 converted = true;
+                break;
             case "lowercase":
                 converterFactory = new LowerCaseFactory();
                 converted = true;
+                break;
             case "UPPERCASE":
                 converterFactory = new UpperCaseFactory();
                 converted = true;
+                break;
             case "kebab-case":
                 converterFactory = new KebabCaseFactory();
                 converted = true;
+                break;
+            case "PascalCase":
+                converterFactory = new PascalCaseFactory();
+                converted = true;
+                break;
             case "MySQLFriendly":
                 converterFactory = new MySQLFriendlyFactory();
                 converted = true;
+                break;
             case "OracleFriendly":
                 converterFactory = new OracleFriendlyFactory();
                 converted = true;
+                break;
             case "MySQLFriendlyWithPrefix":
                 if (type.equals("class")){
                     converterFactory = new MySQLFriendlyWithPrefixFactory();
@@ -48,6 +59,7 @@ public class ConverterController {
                     converterFactory = new MySQLFriendlyFactory();
                 }
                 converted = true;
+                break;
             case "OracleFriendlyWithPrefix":
                 if (type.equals("class")){
                     converterFactory = new OracleFriendlyWithPrefixFactory();
@@ -55,7 +67,9 @@ public class ConverterController {
                     converterFactory = new OracleFriendlyFactory();
                 }
                 converted = true;
-        }if (!converted){
+                break;
+        }
+        if (!converted){
             return ResponseEntity.badRequest().body("Invalid format");
         }
         Converter converter = converterFactory.create();

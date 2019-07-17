@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="10e32c29-9755-4954-a248-daa97fabe43f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ooc/CaseConverter/absFactory/Converters/OracleFriendlyWithPrefixConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ooc/CaseConverter/absFactory/Converters/OracleFriendlyWithPrefixConverter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ooc/CaseConverter/controller/ConverterController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ooc/CaseConverter/controller/ConverterController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ooc/CaseConverter/service/TestCaseService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ooc/CaseConverter/service/TestCaseService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ooc/CaseConverter/absFactory/Converters/OracleFriendlyWithPrefixConverter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ooc/CaseConverter/absFactory/Converters/OracleFriendlyWithPrefixConverter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ooc/CaseConverter/controller/ConverterController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ooc/CaseConverter/controller/ConverterController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ooc/CaseConverter/service/TestCaseService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ooc/CaseConverter/service/TestCaseService.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -11,6 +18,20 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
@@ -27,10 +48,28 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ooc/CaseConverter/absFactory/Converters/OracleFriendlyWithPrefixConverter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ooc/CaseConverter/absFactory/Converters/Converter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="4" column="39" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ooc/CaseConverter/controller/ConverterController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="162">
+              <caret line="15" column="45" lean-forward="true" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -39,10 +78,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ooc/CaseConverter/absFactory/Converters/Converter.java">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="4" column="10" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="10" />
+            <state>
+              <caret column="5" lean-forward="true" selection-start-column="5" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -59,7 +98,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ooc/CaseConverter/Input.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1566">
+            <state relative-caret-position="793">
               <caret line="63" column="25" selection-start-line="63" selection-start-column="25" selection-end-line="63" selection-end-column="25" />
               <folding>
                 <element signature="e#325#326#0" expanded="true" />
@@ -83,23 +122,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ooc/CaseConverter/absFactory/Converters/UpperCaseConverter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
-              <folding>
-                <element signature="e#158#159#0" expanded="true" />
-                <element signature="e#199#200#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ooc/CaseConverter/BeApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            <state relative-caret-position="270">
+              <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -110,8 +136,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ooc/CaseConverter/service/TestCaseService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-126">
-              <caret line="22" column="64" lean-forward="true" selection-start-line="22" selection-start-column="64" selection-end-line="22" selection-end-column="64" />
+            <state relative-caret-position="144">
+              <caret line="34" column="69" selection-start-line="34" selection-start-column="69" selection-end-line="34" selection-end-column="69" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -184,10 +210,11 @@
         <option value="$PROJECT_DIR$/src/main/java/ooc/CaseConverter/absFactory/Converters/MySQLFriendlyConverter.java" />
         <option value="$PROJECT_DIR$/src/main/java/ooc/CaseConverter/absFactory/Converters/OracleFriendlyConverter.java" />
         <option value="$PROJECT_DIR$/src/main/java/ooc/CaseConverter/absFactory/Converters/MySQLFriendlyWithPrefixConveter.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ooc/CaseConverter/absFactory/Converters/OracleFriendlyWithPrefixConverter.java" />
         <option value="$PROJECT_DIR$/src/main/java/ooc/CaseConverter/BeApplication.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ooc/CaseConverter/controller/ConverterController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ooc/CaseConverter/absFactory/Converters/OracleFriendlyWithPrefixConverter.java" />
         <option value="$PROJECT_DIR$/src/main/java/ooc/CaseConverter/service/TestCaseService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ooc/CaseConverter/controller/ConverterController.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -196,6 +223,17 @@
     <exe-path />
     <other-services-enabled>true</other-services-enabled>
     <auto-save>true</auto-save>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="ooc.final.2018.t3" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="67" />
@@ -243,25 +281,6 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="CaseConverter" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="OOCFinal" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OOCFinal" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="CaseConverter" type="462c0819:PsiDirectoryNode" />
-              <item name="absFactory" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="OOCFinal" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OOCFinal" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="CaseConverter" type="462c0819:PsiDirectoryNode" />
-              <item name="absFactory" type="462c0819:PsiDirectoryNode" />
-              <item name="Converters" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="OOCFinal" type="b2602c69:ProjectViewProjectNode" />
@@ -346,18 +365,19 @@
       <workItem from="1563264074108" duration="911000" />
       <workItem from="1563271758154" duration="11708000" />
       <workItem from="1563283544870" duration="7206000" />
-      <workItem from="1563290802831" duration="766000" />
+      <workItem from="1563290802831" duration="2455000" />
+      <workItem from="1563343362248" duration="3857000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23105000" />
+    <option name="totallyTimeSpent" value="28651000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.257886" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26065302" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -367,7 +387,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32894737" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3267544" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3267544" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -380,17 +400,17 @@
       <window_info anchor="bottom" id="Spring" order="12" />
       <window_info anchor="bottom" id="Java Enterprise" order="13" />
       <window_info anchor="bottom" id="Messages" order="14" weight="0.32968238" />
-      <window_info anchor="right" id="Call Graph" side_tool="true" weight="0.32982844" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Maven" order="5" sideWeight="0.37719297" weight="0.32982844" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Database" order="8" />
-      <window_info anchor="right" id="Bean Validation" order="9" />
+      <window_info anchor="right" id="Database" order="8" sideWeight="0.37785017" weight="0.32982844" />
+      <window_info anchor="right" id="Bean Validation" order="9" sideWeight="0.37947884" weight="0.32982844" />
+      <window_info anchor="right" id="Call Graph" order="10" sideWeight="0.62212485" side_tool="true" weight="0.32982844" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -511,16 +531,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ooc/CaseConverter/absFactory/CamelCaseFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ooc/CaseConverter/absFactory/Converters/LowerCaseConverter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -567,13 +577,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ooc/CaseConverter/absFactory/Converters/OracleFriendlyWithPrefixConverter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="58" selection-start-line="7" selection-start-column="58" selection-end-line="7" selection-end-column="58" />
         </state>
       </provider>
     </entry>
@@ -685,180 +688,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="uml://JAVA/ooc.CaseConverter">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>ooc.CaseConverter</OriginalElement>
-          <nodes>
-            <node x="286.0" y="109.0">ooc.CaseConverter.absFactory.Converters.OracleFriendlyConverter</node>
-            <node x="1107.0" y="183.0">ooc.CaseConverter.absFactory.ConverterFactory</node>
-            <node x="2058.0" y="292.0">ooc.CaseConverter.absFactory.CamelCaseFactory</node>
-            <node x="1536.0" y="109.0">ooc.CaseConverter.absFactory.Converters.KebabCaseConverter</node>
-            <node x="2424.0" y="109.0">ooc.CaseConverter.absFactory.Converters.MySQLFriendlyWithPrefixConveter</node>
-            <node x="23.0" y="-26.0">ooc.CaseConverter.controller.ConverterController</node>
-            <node x="2284.0" y="292.0">ooc.CaseConverter.absFactory.MySQLFriendlyWithPrefixFactory</node>
-            <node x="603.0" y="-22.0">ooc.CaseConverter.service.TestCaseService</node>
-            <node x="1446.0" y="292.0">ooc.CaseConverter.absFactory.PascalCaseFactory</node>
-            <node x="890.0" y="-26.0">ooc.CaseConverter.BeApplication</node>
-            <node x="502.0" y="292.0">ooc.CaseConverter.absFactory.MySQLFriendlyFactory</node>
-            <node x="1220.0" y="292.0">ooc.CaseConverter.absFactory.UpperCaseFactory</node>
-            <node x="298.0" y="-23.0">ooc.CaseConverter.service.ConverterService</node>
-            <node x="828.0000000000001" y="109.0">ooc.CaseConverter.absFactory.Converters.SnakeCaseConverter</node>
-            <node x="582.0000000000001" y="109.0">ooc.CaseConverter.absFactory.Converters.UpperCaseConverter</node>
-            <node x="1234.5" y="0.0">ooc.CaseConverter.absFactory.Converters.Converter</node>
-            <node x="1074.0" y="109.0">ooc.CaseConverter.absFactory.Converters.CamelCaseConverter</node>
-            <node x="0.0" y="292.0">ooc.CaseConverter.absFactory.LowerCaseFactory</node>
-            <node x="994.0" y="292.0">ooc.CaseConverter.absFactory.SnakeCaseFactory</node>
-            <node x="1782.0" y="109.0">ooc.CaseConverter.absFactory.Converters.OracleFriendlyWithPrefixConverter</node>
-            <node x="2178.0" y="109.0">ooc.CaseConverter.absFactory.Converters.LowerCaseConverter</node>
-            <node x="768.0" y="292.0">ooc.CaseConverter.absFactory.KebabCaseFactory</node>
-            <node x="1320.0" y="109.0">ooc.CaseConverter.absFactory.Converters.PascalConverter</node>
-            <node x="1682.0" y="292.0">ooc.CaseConverter.absFactory.OracleFriendlyWithPrefixFactory</node>
-            <node x="226.0" y="292.0">ooc.CaseConverter.absFactory.OracleFriendlyFactory</node>
-            <node x="0.0" y="109.0">ooc.CaseConverter.absFactory.Converters.MySQLFriendlyConverter</node>
-            <node x="994.0" y="366.0">ooc.CaseConverter.Input</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="ooc.CaseConverter.absFactory.Converters.LowerCaseConverter" target="ooc.CaseConverter.absFactory.Converters.Converter">
-              <point x="0.0" y="-14.5" />
-              <point x="2291.0" y="59.0" />
-              <point x="1350.1" y="59.0" />
-              <point x="47.59999999999991" y="14.5" />
-            </edge>
-            <edge source="ooc.CaseConverter.absFactory.KebabCaseFactory" target="ooc.CaseConverter.absFactory.ConverterFactory">
-              <point x="0.0" y="-14.5" />
-              <point x="871.0" y="262.0" />
-              <point x="1179.1" y="262.0" />
-              <point x="-30.90000000000009" y="14.5" />
-            </edge>
-            <edge source="ooc.CaseConverter.absFactory.OracleFriendlyWithPrefixFactory" target="ooc.CaseConverter.absFactory.ConverterFactory">
-              <point x="1.1368683772161603E-13" y="-14.5" />
-              <point x="1860.0" y="252.0" />
-              <point x="1261.5" y="252.0" />
-              <point x="51.5" y="14.5" />
-            </edge>
-            <edge source="ooc.CaseConverter.absFactory.Converters.UpperCaseConverter" target="ooc.CaseConverter.absFactory.Converters.Converter">
-              <point x="0.0" y="-14.5" />
-              <point x="695.0000000000001" y="69.0" />
-              <point x="1268.5" y="69.0" />
-              <point x="-34.0" y="14.5" />
-            </edge>
-            <edge source="ooc.CaseConverter.absFactory.OracleFriendlyFactory" target="ooc.CaseConverter.absFactory.ConverterFactory">
-              <point x="0.0" y="-14.5" />
-              <point x="354.0" y="242.0" />
-              <point x="1137.9" y="242.0" />
-              <point x="-72.09999999999991" y="14.5" />
-            </edge>
-            <edge source="ooc.CaseConverter.absFactory.Converters.SnakeCaseConverter" target="ooc.CaseConverter.absFactory.Converters.Converter">
-              <point x="0.0" y="-14.5" />
-              <point x="941.0000000000001" y="79.0" />
-              <point x="1282.1" y="79.0" />
-              <point x="-20.40000000000009" y="14.5" />
-            </edge>
-            <edge source="ooc.CaseConverter.absFactory.Converters.OracleFriendlyWithPrefixConverter" target="ooc.CaseConverter.absFactory.Converters.Converter">
-              <point x="0.0" y="-14.5" />
-              <point x="1970.0" y="69.0" />
-              <point x="1336.5" y="69.0" />
-              <point x="34.0" y="14.5" />
-            </edge>
-            <edge source="ooc.CaseConverter.absFactory.Converters.MySQLFriendlyConverter" target="ooc.CaseConverter.absFactory.Converters.Converter">
-              <point x="0.0" y="-14.5" />
-              <point x="133.0" y="49.0" />
-              <point x="1241.3000000000002" y="49.0" />
-              <point x="-61.200000000000045" y="14.5" />
-            </edge>
-            <edge source="ooc.CaseConverter.absFactory.CamelCaseFactory" target="ooc.CaseConverter.absFactory.ConverterFactory">
-              <point x="0.0" y="-14.5" />
-              <point x="2161.0" y="242.0" />
-              <point x="1282.1" y="242.0" />
-              <point x="72.09999999999991" y="14.5" />
-            </edge>
-            <edge source="ooc.CaseConverter.absFactory.Converters.OracleFriendlyConverter" target="ooc.CaseConverter.absFactory.Converters.Converter">
-              <point x="0.0" y="-14.5" />
-              <point x="424.0" y="59.0" />
-              <point x="1254.9" y="59.0" />
-              <point x="-47.59999999999991" y="14.5" />
-            </edge>
-            <edge source="ooc.CaseConverter.absFactory.LowerCaseFactory" target="ooc.CaseConverter.absFactory.ConverterFactory">
-              <point x="0.0" y="-14.5" />
-              <point x="103.0" y="232.0" />
-              <point x="1117.3" y="232.0" />
-              <point x="-92.70000000000005" y="14.5" />
-            </edge>
-            <edge source="ooc.CaseConverter.absFactory.Converters.MySQLFriendlyWithPrefixConveter" target="ooc.CaseConverter.absFactory.Converters.Converter">
-              <point x="0.0" y="-14.5" />
-              <point x="2602.0" y="49.0" />
-              <point x="1363.7000000000003" y="49.0" />
-              <point x="61.200000000000045" y="14.5" />
-            </edge>
-            <edge source="ooc.CaseConverter.absFactory.MySQLFriendlyWithPrefixFactory" target="ooc.CaseConverter.absFactory.ConverterFactory">
-              <point x="0.0" y="-14.5" />
-              <point x="2457.0" y="232.0" />
-              <point x="1302.7" y="232.0" />
-              <point x="92.70000000000005" y="14.5" />
-            </edge>
-            <edge source="ooc.CaseConverter.absFactory.SnakeCaseFactory" target="ooc.CaseConverter.absFactory.ConverterFactory">
-              <point x="0.0" y="-14.5" />
-              <point x="1097.0" y="272.0" />
-              <point x="1199.7" y="272.0" />
-              <point x="-10.299999999999955" y="14.5" />
-            </edge>
-            <edge source="ooc.CaseConverter.absFactory.Converters.KebabCaseConverter" target="ooc.CaseConverter.absFactory.Converters.Converter">
-              <point x="0.0" y="-14.5" />
-              <point x="1649.0" y="79.0" />
-              <point x="1322.9" y="79.0" />
-              <point x="20.40000000000009" y="14.5" />
-            </edge>
-            <edge source="ooc.CaseConverter.absFactory.UpperCaseFactory" target="ooc.CaseConverter.absFactory.ConverterFactory">
-              <point x="0.0" y="-14.5" />
-              <point x="1323.0" y="272.0" />
-              <point x="1220.3" y="272.0" />
-              <point x="10.299999999999955" y="14.5" />
-            </edge>
-            <edge source="ooc.CaseConverter.absFactory.Converters.PascalConverter" target="ooc.CaseConverter.absFactory.Converters.Converter">
-              <point x="0.0" y="-14.5" />
-              <point x="1418.0" y="89.0" />
-              <point x="1309.3000000000002" y="89.0" />
-              <point x="6.7999999999999545" y="14.5" />
-            </edge>
-            <edge source="ooc.CaseConverter.absFactory.PascalCaseFactory" target="ooc.CaseConverter.absFactory.ConverterFactory">
-              <point x="0.0" y="-14.5" />
-              <point x="1554.0" y="262.0" />
-              <point x="1240.9" y="262.0" />
-              <point x="30.90000000000009" y="14.5" />
-            </edge>
-            <edge source="ooc.CaseConverter.absFactory.MySQLFriendlyFactory" target="ooc.CaseConverter.absFactory.ConverterFactory">
-              <point x="0.0" y="-14.5" />
-              <point x="625.0" y="252.0" />
-              <point x="1158.5" y="252.0" />
-              <point x="-51.5" y="14.5" />
-            </edge>
-            <edge source="ooc.CaseConverter.absFactory.Converters.CamelCaseConverter" target="ooc.CaseConverter.absFactory.Converters.Converter">
-              <point x="0.0" y="-14.5" />
-              <point x="1187.0" y="89.0" />
-              <point x="1295.7000000000003" y="89.0" />
-              <point x="-6.7999999999999545" y="14.5" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="1708.0" y="106.0" />
-          <SelectedNodes>
-            <node>ooc.CaseConverter.controller.ConverterController</node>
-          </SelectedNodes>
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ooc/CaseConverter/absFactory/Converters/SnakeCaseConverter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ooc/CaseConverter/service/ConverterService.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/ooc/CaseConverter/absFactory/Converters/UpperCaseConverter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
@@ -870,27 +700,43 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ooc/CaseConverter/service/ConverterService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="39" column="23" selection-start-line="39" selection-start-column="23" selection-end-line="39" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+    <entry file="uml://JAVA/ooc.CaseConverter">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>ooc.CaseConverter</OriginalElement>
+          <nodes>
+            <node x="0.0" y="420.0">ooc.CaseConverter.service</node>
+            <node x="0.0" y="346.0">ooc.CaseConverter.controller</node>
+            <node x="0.0" y="176.0">ooc.CaseConverter.Input.InputBuilder</node>
+            <node x="255.0" y="346.0">ooc.CaseConverter.absFactory</node>
+            <node x="282.0" y="0.0">ooc.CaseConverter.BeApplication</node>
+            <node x="20.5" y="0.0">ooc.CaseConverter.Input</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="ooc.CaseConverter.Input.InputBuilder" target="ooc.CaseConverter.Input">
+              <point x="0.0" y="-62.5" />
+              <point x="0.0" y="63.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-269.5" y="-57.5" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Inner Classes</Category>
+            <Category>Properties</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ooc/CaseConverter/absFactory/Converters/PascalConverter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ooc/CaseConverter/BeApplication.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ooc/CaseConverter/absFactory/CamelCaseFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -899,7 +745,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ooc/CaseConverter/Input.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1566">
+        <state relative-caret-position="793">
           <caret line="63" column="25" selection-start-line="63" selection-start-column="25" selection-end-line="63" selection-end-column="25" />
           <folding>
             <element signature="e#325#326#0" expanded="true" />
@@ -912,23 +758,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ooc/CaseConverter/service/TestCaseService.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ooc/CaseConverter/BeApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-126">
-          <caret line="22" column="64" lean-forward="true" selection-start-line="22" selection-start-column="64" selection-end-line="22" selection-end-column="64" />
+        <state relative-caret-position="270">
+          <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ooc/CaseConverter/controller/ConverterController.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ooc/CaseConverter/absFactory/Converters/SnakeCaseConverter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="162">
+          <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ooc/CaseConverter/absFactory/Converters/PascalConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ooc/CaseConverter/absFactory/Converters/OracleFriendlyWithPrefixConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ooc/CaseConverter/absFactory/Converters/Converter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="39" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
         </state>
       </provider>
     </entry>
@@ -939,10 +803,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ooc/CaseConverter/absFactory/Converters/Converter.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ooc/CaseConverter/service/TestCaseService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="10" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="10" />
+        <state relative-caret-position="144">
+          <caret line="34" column="69" selection-start-line="34" selection-start-column="69" selection-end-line="34" selection-end-column="69" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ooc/CaseConverter/controller/ConverterController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="15" column="45" lean-forward="true" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" lean-forward="true" selection-start-column="5" selection-end-column="5" />
         </state>
       </provider>
     </entry>
